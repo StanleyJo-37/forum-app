@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 input {
-    @apply border-none focus:outline-none;
+    @apply border-none focus:outline-none w-auto h-auto p-2 text-center;
 }
